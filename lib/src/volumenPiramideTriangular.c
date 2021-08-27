@@ -1,4 +1,5 @@
 #include "math.h"
+#include "..\include\lib.h"
 /**@brief Calcula el volumen de una pirámide triangular  
  * @param b El valor de un lado de la base
  * @param h El valor de la altura de la base
