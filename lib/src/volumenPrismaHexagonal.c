@@ -1,4 +1,5 @@
 #include "math.h"
+#include "..\include\lib.h"
 /**@brief Calcula el volumen de un prisma hexagonal 
  * @param l El valor de un lado de la base
  * @param H El valor de la altura del prisma hexagonal
