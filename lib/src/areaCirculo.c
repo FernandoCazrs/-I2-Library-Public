@@ -3,7 +3,7 @@
 /**@brief Calcula el área de un círculo
  * @param x El valor del radio del círculo
  * @returns El resultado del cálculo
- * */
+ */
 float areaCirculo(float x)
 {
     float r;
