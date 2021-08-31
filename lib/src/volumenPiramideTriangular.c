@@ -5,7 +5,7 @@
  * @param h El valor de la altura de la base
  * @param H El valor de la altura de la pirámide triangular
  * @returns El resultado del cálculo
- * */
+*/
 
 float volumenPiramideTriangular(float b, float h, float H){
     float r, a;
