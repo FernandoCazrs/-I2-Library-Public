@@ -1,6 +1,6 @@
-
-#include "..\include\lib.h"
+#include "..\include\calculadoraVolumenAreaPerimetro.h"
 #include <math.h> 
+#include <stdio.h>
 
 /** @brief Calcula el area de un rectangulo
 *@param a valor de largo de rectangulo

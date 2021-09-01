@@ -1,5 +1,6 @@
-#include "..\include\lib.h"
+#include "..\include\calculadoraVolumenAreaPerimetro.h"
 #include <math.h> 
+#include <stdio.h>
 
 /** @brief Calcula el perimetro de un cuadrado
 *@param a valor de un lado del cuadrado

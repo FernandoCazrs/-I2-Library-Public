@@ -1,5 +1,6 @@
 #include "math.h"
-#include "..\include\lib.h"
+#include "..\include\calculadoraVolumenAreaPerimetro.h"
+#include <stdio.h>
 
 /** @brief Calcula el volumen de un Cilindro
  * @param r El valor del radio de una de las bases del Cilindro

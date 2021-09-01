@@ -1,5 +1,5 @@
 #include "..\src\volumenPiramideHexagonal.c"
-#include <stdlib.h>
+#include <stdcalculadoraVolumenAreaPerimetro>
 #include <stdio.h>
 
 int main(int argc,char *argv[]){

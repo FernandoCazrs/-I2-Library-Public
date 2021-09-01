@@ -1,5 +1,6 @@
 #include "math.h"
-#include "..\include\lib.h"
+#include "..\include\calculadoraVolumenAreaPerimetro.h"
+#include <stdio.h>
 /** @brief Calcula el área de un triángulo
  * @param b El valor de un lado del triángulo
  * @param h El valor de la altura del triángulo

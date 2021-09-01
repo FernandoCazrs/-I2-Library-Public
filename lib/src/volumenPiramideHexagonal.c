@@ -1,4 +1,5 @@
-#include "..\include\lib.h"
+#include "..\include\calculadoraVolumenAreaPerimetro.h"
+#include <stdio.h>
 #include <math.h>
 /** @brief Calculates the volume of a hexagonal pyramid
  * @param a The length of one of the sides of the base

@@ -1,4 +1,5 @@
-#include "..\include\lib.h"
+#include "..\include\calculadoraVolumenAreaPerimetro.h"
+#include <stdio.h>
 #include <math.h>
 /** @brief Calculates the volume of a pentagonal Pyramid
  * @param a the lenght of one of the sides of the base

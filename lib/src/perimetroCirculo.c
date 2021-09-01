@@ -1,5 +1,6 @@
 #include "math.h"
-#include "..\include\lib.h"
+#include "..\include\calculadoraVolumenAreaPerimetro.h"
+#include <stdio.h>
 /** @brief Calcula el perímetro de un círculo
  * @param x El valor del radio de un círculo
  * @returns El resultado del cálculo

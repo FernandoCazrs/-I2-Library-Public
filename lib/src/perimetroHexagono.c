@@ -1,4 +1,5 @@
-#include "..\include\lib.h"
+#include "..\include\calculadoraVolumenAreaPerimetro.h"
+#include <stdio.h>
 
 /** @brief Calcula el perimetro de un Hexagono
  * @param l El valor de uno de los lados del Hexagono

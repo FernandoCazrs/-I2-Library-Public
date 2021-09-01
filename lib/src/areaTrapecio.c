@@ -1,4 +1,5 @@
-#include "..\include\lib.h"
+#include "..\include\calculadoraVolumenAreaPerimetro.h"
+#include <stdio.h>
 
 /** @brief Calculates the area of a trapezium with the formula A=((a+b)/2)*h
  * @param a One of the bases

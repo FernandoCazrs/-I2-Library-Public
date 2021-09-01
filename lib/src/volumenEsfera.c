@@ -1,5 +1,6 @@
 #include "math.h"
-#include "..\include\lib.h"
+#include "..\include\calculadoraVolumenAreaPerimetro.h"
+#include <stdio.h>
 
 /** @brief Calcula el volumen de la Esfera
  * @param r El valor del radio de la Esfera

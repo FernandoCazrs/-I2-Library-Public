@@ -1,4 +1,5 @@
-#include "..\include\lib.h"
+#include "..\include\calculadoraVolumenAreaPerimetro.h"
+#include <stdio.h>
 
 /** @brief Calculates the volume of a square pyramid
  * @param a The lenght of one of the sides of the base

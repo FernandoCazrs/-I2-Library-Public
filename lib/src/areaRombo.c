@@ -1,4 +1,5 @@
-#include "..\include\lib.h"
+#include "..\include\calculadoraVolumenAreaPerimetro.h"
+#include <stdio.h>
 
 /** @brief Calcula el area de un Rombo
  * @param dm El valor de la diagonal mayor del Rombo

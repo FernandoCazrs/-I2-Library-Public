@@ -1,5 +1,6 @@
-#include "..\include\lib.h"
+#include "..\include\calculadoraVolumenAreaPerimetro.h"
 #include <math.h>
+#include <stdio.h>
 
 /** @brief Calculates the area of a regular pentagon
  * @param a One of the sides of the shape

@@ -1,4 +1,5 @@
-#include "..\include\lib.h"
+#include "..\include\calculadoraVolumenAreaPerimetro.h"
+#include <stdio.h>
 #include <math.h> 
 
 /** @brief Calcula el volumen de un cubo

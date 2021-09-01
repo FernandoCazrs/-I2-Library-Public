@@ -1,6 +1,6 @@
 #include "..\src\perimetroPentagono.c"
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdcalculadoraVolumenAreaPerimetro>
 
 int main(int argc,char *argv[]){
     float a=atof(argv[1]);

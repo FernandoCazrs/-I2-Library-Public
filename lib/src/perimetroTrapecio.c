@@ -1,4 +1,5 @@
-#include "..\include\lib.h"
+#include "..\include\calculadoraVolumenAreaPerimetro.h"
+#include <stdio.h>
 
 /** @brief Calculates the value of the perimeter of a trapezium by adding its sides together
  * @param a One of the sides of the shape
