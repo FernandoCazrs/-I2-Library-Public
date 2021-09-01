@@ -1,4 +1,4 @@
-#include "./include/calculadoraVolumenAreaPerimetro.h"
+#include "..\include\calculadoraVolumenAreaPerimetro.h"
 #include <math.h> 
 #include <stdio.h>
 /** @brief Calcula el volumen de un prisma cuadrangular 

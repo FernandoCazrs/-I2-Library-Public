@@ -1,5 +1,5 @@
 #include "math.h"
-#include "./include/calculadoraVolumenAreaPerimetro.h"
+#include "..\include\calculadoraVolumenAreaPerimetro.h"
 #include <stdio.h>
 /** @brief Calcula el volumen de un prisma triangular
 *@param a valor altura del triangulo

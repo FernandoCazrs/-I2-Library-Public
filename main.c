@@ -1,4 +1,4 @@
-#include "calculadoraVolumenAreaPerimetro.h"
+#include "./lib/include/calculadoraVolumenAreaPerimetro.h"
 #include <stdio.h>
 
 int main(){

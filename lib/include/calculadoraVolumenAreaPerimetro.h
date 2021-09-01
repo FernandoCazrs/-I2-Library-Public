@@ -70,7 +70,7 @@ float perimetroCuadrado(float a);
  * @param l El valor de uno de los lados del Hexagono
  * @returns El perimetro total de la figura
 */
-float perimetroHexagono (float l);
+float perimetroHexagono(float l);
 
 /** @brief Calculates the perimeter of a regular pentagon
  * @param a One of the sides of the shape
@@ -83,13 +83,13 @@ float perimetroPentagono(float a);
 *@param b valor del largo del rectangulo
 *@return perimetro del rectangulo suma de 2b + 2a
 */
-float perimetroRectangulo (float a, float b);
+float perimetroRectangulo(float a, float b);
 
 /** @brief Calcula el perimetro de un Rombo
  * @param l El valor de uno de los lados del Rombo
  * @returns El perimetro total de la figura
 */
-float perimetroRombo (float l);
+float perimetroRombo(float l);
 
 /** @brief Calculates the value of the perimeter of a trapezium by adding its sides together
  * @param a One of the sides of the shape
@@ -111,14 +111,14 @@ float perimetroTriangulo(float x);
  * @param h El valor de la altura del Cilindro
  * @returns El volumen total de la figura
 */
-float volumenCilindro (float r, float h);
+float volumenCilindro(float r, float h);
 
 /** @brief Calcula el volumen de un Cono
  * @param r El valor del radio de la base del Cono
  * @param h El valor de la altura del Cono
  * @returns El volumen total de la figura
 */
-float volumenCono (float r, float h);
+float volumenCono(float r, float h);
 
 /** @brief Calcula el volumen de un cubo
 *@param a valor de un lado del cubo 
@@ -130,7 +130,7 @@ float volumenCubo(float a);
  * @param r El valor del radio de la Esfera
  * @returns El volumen total de la figura 
 */
-float volumenEsfera (float r);
+float volumenEsfera(float r);
 
 /** @brief Calculates the volume of a square pyramid
  * @param a The lenght of one of the sides of the base
