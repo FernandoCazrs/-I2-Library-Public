@@ -1,6 +1,6 @@
 #include "math.h"
 #include "..\include\lib.h"
-/**@brief Calcula el perímetro de un triángulo
+/** @brief Calcula el perímetro de un triángulo
  * @param x El valor del lado del triángulo
  * @returns El resultado del cálculo
 */

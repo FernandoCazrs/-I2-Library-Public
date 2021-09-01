@@ -2,7 +2,7 @@
 #include "..\include\lib.h"
 #include <math.h> 
 
-/**@brief Calcula el area de un rectangulo
+/** @brief Calcula el area de un rectangulo
 *@param a valor de largo de rectangulo
 *@param b valor de ancho del rectangulo 
 *@return area b*a
