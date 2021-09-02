@@ -9,6 +9,6 @@
 */
 float volumenCono (float r, float h){
     float z;
-    z = r * r * h * M_PI * (0.333);
+    z = r * r * h * M_PI * (0.3333);
     return z;
 }
